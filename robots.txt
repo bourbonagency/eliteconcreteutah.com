@@ -1,0 +1,6 @@
+Sitemap: https://eliteconcreteutah.com/sitemap.xml
+
+User-agent: *
+Disallow: /*?fbclid=*
+Disallow: /docs/
+Disallow: /404/
