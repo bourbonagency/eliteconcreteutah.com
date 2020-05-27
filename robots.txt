@@ -4,3 +4,4 @@ User-agent: *
 Disallow: /*?fbclid=*
 Disallow: /docs/
 Disallow: /404/
+Disallow: /contact/thanks
