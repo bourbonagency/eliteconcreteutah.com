@@ -3,43 +3,45 @@ layout: service
 metaTitle: Concrete Staining Utah - Acid Stain - Elite Concrete Utah
 title: Concrete Staining Utah
 servicename: Concrete Staining
-permalink: /services/concrete-staining/
+permalink: /services/concrete-staining-utah/
+bg-image: ../img/h1.png
+colorchart: ../docs/concrete-staining-utah-color-chart.pdf
 ---
 
  <div class="zoom-gallery-box">
     <div class="tab-content">
         <div class="tab-pane fade show active" id="related1" role="tabpanel">
-            <img class="zoom_01" src="http://localhost:4000/img/service/service32.jpg" data-zoom-image="http://localhost:4000/img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
         </div>
         <div class="tab-pane fade" id="related2" role="tabpanel">
-            <img class="zoom_01" src="http://localhost:4000/img/service/service32.jpg" data-zoom-image="http://localhost:4000/img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
         </div>
         <div class="tab-pane fade" id="related3" role="tabpanel">
-            <img class="zoom_01" src="http://localhost:4000/img/service/service32.jpg" data-zoom-image="http://localhost:4000/img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
         </div>
         <div class="tab-pane fade" id="related4" role="tabpanel">
-            <img class="zoom_01" src="http://localhost:4000/img/service/service32.jpg" data-zoom-image="http://localhost:4000/img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
         </div>
     </div>
     <ul class="nav nav-tabs tab-nav-list" role="tablist">
         <li class="nav-item">
             <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-                <img src="http://localhost:4000/img/service/service28.jpg" alt="related1">
+                <img src="../img/service/service28.jpg" alt="related1">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-                <img src="http://localhost:4000/img/service/service29.jpg" alt="related1">
+                <img src="../img/service/service29.jpg" alt="related1">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-                <img src="http://localhost:4000/img/service/service30.jpg" alt="related1">
+                <img src="../img/service/service30.jpg" alt="related1">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-                <img src="http://localhost:4000/img/service/service31.jpg" alt="related1">
+                <img src="../img/service/service31.jpg" alt="related1">
             </a>
         </li>
     </ul>
@@ -77,17 +79,17 @@ We have completed many stained concrete projects all across Utah. In fact we’v
     <div class="row gutters-20">
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="http://localhost:4000/img/service/service25.jpg" alt="service">
+                <img src="../img/service/service25.jpg" alt="service">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="http://localhost:4000/img/service/service25.jpg" alt="service">
+                <img src="../img/service/service25.jpg" alt="service">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 d-none d-sm-block">
             <div class="item-img">
-                <img src="http://localhost:4000/img/service/service27.jpg" alt="service">
+                <img src="../img/service/service27.jpg" alt="service">
             </div>
         </div>
     </div>
