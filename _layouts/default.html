@@ -54,11 +54,7 @@
     </script>
 
     {% if page.serviceschema %}
-    <script type="application/ld+json">{ {{ page.serviceschema }} }</script>
-    {% endif %}
-
-    {% if page.breadcrumb %}
-    <script type="application/ld+json">{ {{ page.breadcrumb }} }] }</script>
+    {% include schema/{{ page.serviceschema }} %}
     {% endif %}
 </head>
 

@@ -6,45 +6,7 @@ servicename: Concrete Staining
 permalink: /services/concrete-staining-utah/
 bg-image: ../img/h1.png
 colorchart: ../docs/concrete-staining-utah-color-chart.pdf
-serviceschema: >-
- "@context": "http://schema.org",
-    "@type": "Service",
-    "provider": {
-        "@type": "Organization",
-        "name": "Ckitchen",
-        "additionalType": "https://www.wikidata.org/wiki/Q24649023",
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "2237 New York Avenue",
-            "postalCode": "11234",
-            "addressRegion": "NY",
-            "addressLocality": "Brooklyn",
-            "addressCountry": "http://www.wikidata.org/entity/Q30",
-            "name": "Postal Address",
-            "@id": "https://www.ckitchen.com/#PostalAddress"
-        },
-        "description": "When you’re shopping around for commercial kitchen equipment, you want a supplier that’s an authorized dealer of top brands, provides the guaranteed lowest prices and is staffed by a team of well-trained commercial kitchen experts. Only one company checks all those boxes and more, and that’s CKitchen.com. Not only do you get an unbeatable selection and top-quality service here, but you’ll also appreciate that 10 percent of our profits go to charity, so you can feel good about shopping with us. We’re one of the web’s top commercial kitchen suppliers, and can even provide you with professional food service consulting and kitchen design services based on your individual needs and budget.  Our selection of commercial kitchen supplies includes everything from cutting-edge bar, bakery and concession equipment to catering equipment, supplies and appliances that can handle large volumes. It doesn’t matter if you’re operating a brick-and-mortar restaurant or food truck, CKitchen.com can outfit your business with the supplies required to boost efficiency, sales and productivity. We have commercial food preparation equipment, gas and electric ranges, ice machines, refrigerators, walk-in coolers and freezers, beverage systems, sinks, tables, shelving, and many more supplies that will help transform your commercial kitchen so it can handle even the most demanding needs.",
-        "@id": "https://www.ckitchen.com/"
-    },
-    "logo": {
-        "@id": "https://cdn.ckitchen.com/i_l/logos/ckitchen.png"
-    },
-    "image": {
-        "@type": "ImageObject",
-        "url": "https://www.ckitchen.com/crm/userfiles/2a06815c-a613-4616-94cf-ebffa45f5734.jpg",
-        "height": "565",
-        "width": "847",
-        "@id": "https://www.ckitchen.com/crm/userfiles/2a06815c-a613-4616-94cf-ebffa45f5734.jpg"
-    },
-    "brand": {
-        "@id": "https://www.ckitchen.com/"
-    },
-    "additionalType": "https://en.wikipedia.org/wiki/Consultant",
-    "url": "https://www.ckitchen.com/design/consulting/",
-    "areaServed": "http://www.wikidata.org/entity/Q60",
-    "description": "The role of the food service operation consultant is to guide the client in the following ways. First, a general review of the project and the available square footage for storage, prep, production and clean up. Also the \"front of the house\" food displays, anticipated seating of the dining/lounge and/or bar as applicable, the traffic patterns that include entry, delivery and trash removal.  Next, the client's menu is reviewed and equipment is properly matched for its production. The future expansion or changes in the menu are also considered. The proper layout of the vital kitchen areas will have a major impact on cost savings to the owner/operator. Included in these savings are labor, breakage, food waste, food yield, energy efficiencies and waste handling.  Consulting services are offered independent of a complete project or as part of a design.",
-    "name": "Food Service Operation Consulting",
-    "@id": "https://www.ckitchen.com/design/consulting/"
+serviceschema: concrete-staining.html
 ---
 
  <div class="zoom-gallery-box">
