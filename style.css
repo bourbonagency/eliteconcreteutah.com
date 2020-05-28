@@ -2113,7 +2113,6 @@ h6 {
 /*------------------- 4.2 Footer -------------------*/
 .footer-wrap-layout1 {
   background-color: #092d4c;
-  background-image: url('img/figure/footer.png');
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: contain;
@@ -2247,6 +2246,9 @@ h6 {
 }
 .footer-box-layout1 .footer-form-box p {
   margin-bottom: 15px;
+}
+.footer-form-box {
+  color: #ffffff !important;
 }
 .footer-box-layout1 .footer-form-box .contact-form-box .form-group {
   margin-bottom: 5px;
@@ -5700,7 +5702,7 @@ div#wrapper.open > .offcanvas-mask {
   position: relative;
 }
 .contact-wrap-layout1 .google-map {
-  filter: grayscale(100%);
+  background-color: #092D4C !important;
 }
 .contact-wrap-layout1 .contact-box-layout1 {
   position: absolute;
