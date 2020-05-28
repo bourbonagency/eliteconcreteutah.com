@@ -7,7 +7,7 @@ permalink: /services/concrete-staining-utah/
 bg-image: ../img/h1.png
 colorchart: ../docs/concrete-staining-utah-color-chart.pdf
 schema: >-
-<script type="application/ld+json">
+"<script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "Service",
@@ -48,7 +48,7 @@ schema: >-
     "name": "Food Service Operation Consulting",
     "@id": "https://www.ckitchen.com/design/consulting/"
 }
-</script>
+</script>"
 ---
 
  <div class="zoom-gallery-box">
