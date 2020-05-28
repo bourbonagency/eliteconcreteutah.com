@@ -45,25 +45,6 @@ serviceschema: >-
     "description": "The role of the food service operation consultant is to guide the client in the following ways. First, a general review of the project and the available square footage for storage, prep, production and clean up. Also the \"front of the house\" food displays, anticipated seating of the dining/lounge and/or bar as applicable, the traffic patterns that include entry, delivery and trash removal.  Next, the client's menu is reviewed and equipment is properly matched for its production. The future expansion or changes in the menu are also considered. The proper layout of the vital kitchen areas will have a major impact on cost savings to the owner/operator. Included in these savings are labor, breakage, food waste, food yield, energy efficiencies and waste handling.  Consulting services are offered independent of a complete project or as part of a design.",
     "name": "Food Service Operation Consulting",
     "@id": "https://www.ckitchen.com/design/consulting/"
-}
-breadcrumb: >-
-"@context": "https://schema.org/", 
-  "@type": "BreadcrumbList", 
-  "itemListElement": [{
-    "@type": "ListItem", 
-    "position": 1, 
-    "name": "Home",
-    "item": "https://eliteconcreteutah.com/"  
-  },{
-    "@type": "ListItem", 
-    "position": 2, 
-    "name": "Services",
-    "item": "https://eliteconcreteutah.com/services/"  
-  },{
-    "@type": "ListItem", 
-    "position": 3, 
-    "name": "Concrete Staining",
-    "item": "https://eliteconcreteutah.com/services/concrete-staining-utah/"
 ---
 
  <div class="zoom-gallery-box">
