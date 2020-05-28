@@ -52,7 +52,14 @@
           "url": "https://eliteconcreteutah.com"
         }
     </script>
-    <script type="application/ld+json">{ {{ page.schema }} }</script>
+
+    {% if page.serviceschema %}
+    <script type="application/ld+json">{ {{ page.serviceschema }} }</script>
+    {% endif %}
+
+    {% if page.breadcrumb %}
+    <script type="application/ld+json">{ {{ page.breadcrumb }} }] }</script>
+    {% endif %}
 </head>
 
 {% include header.html %}
