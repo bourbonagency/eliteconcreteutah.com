@@ -4,7 +4,7 @@ metaTitle: Thank You!
 permalink: /thank-you/
 ---
 
-        <!-- Error Page Area Start Here --> 
+       
         <section class="error-page-wrap-layout1">
             <div class="container">
                 <div class="error-page-box-layout1">
@@ -18,5 +18,4 @@ permalink: /thank-you/
                 <div class="Cloud Background"></div>
             </div>
         </section>
-        <!-- Error Page Area End Here -->
        
