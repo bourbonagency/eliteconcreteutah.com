@@ -1,8 +1,7 @@
 ---
 layout: default
 metaTitle: Thank You!
-title: Contact Form Submission Page
-permalink: /contact/thanks
+permalink: /thank-you/
 ---
 
         <!-- Error Page Area Start Here --> 
@@ -10,9 +9,8 @@ permalink: /contact/thanks
             <div class="container">
                 <div class="error-page-box-layout1">
                     <div class="title-text">Thank You!</div>
-                    <div class="item-subtitle">The page you are looking is not available or has been removed. 
-                    Try going to Home Page by using the button below.</div>
-                    <a href="{{ site.url }}" class="item-btn">GO TO HOME PAGE</a>
+                    <div class="item-subtitle">We will be in contact with you as soon as possible! Want to contact us faster? Feel free to call us at {{ site.phone }}</div>
+                    <a href="https://eliteconcreteutah.com/projects" class="item-btn">See Our Recent Work</a>
                 </div>
             </div>
             <div id="Clouds">
