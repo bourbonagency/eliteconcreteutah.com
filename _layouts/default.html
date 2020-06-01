@@ -36,9 +36,6 @@
     <!-- Modernize js -->
     <script src="https://eliteconcreteutah.com/js/modernizr-3.7.1.min.js"></script>
 
-    {% if page.noindex %}
-    <meta name="robots" content="noindex">
-    {% endif %}
 
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -56,6 +53,11 @@
           "url": "https://eliteconcreteutah.com"
         }
     </script>
+
+
+    {% if page.noindex %}
+    <meta name="robots" content="noindex">
+    {% endif %}
 
     {% if page.schema %}
     {% include schema/{{ page.schema }} %}
