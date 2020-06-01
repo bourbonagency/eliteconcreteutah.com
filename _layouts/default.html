@@ -58,11 +58,150 @@
     {% endif %}
 </head>
 
-{% include header.html %}
+<body class="sticky-header">
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJZJW3X"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lte IE 9]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+      <![endif]-->
+    <!-- ScrollUp Start Here -->
+    <a href="#wrapper" data-type="section-switch" class="scrollup">
+        <i class="fas fa-angle-double-up"></i>
+    </a>
+    <!-- ScrollUp End Here -->
+    <div id="wrapper" class="wrapper">
+        <!-- Add your site or application content here -->
+        <!-- Header Area Start Here -->
+        <header class="header">
+            <div id="header-topbar" class="bg-accent pd-x-85">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="header-topbar-layout1">
+                                <ul class="header-top-left">
+                                    <li><i class="far fa-clock"></i>Hours: Mon-Fri: 7.00 am - 7.00 pm</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 d-flex justify-content-end">
+                            <div class="header-topbar-layout1">
+                                <ul class="header-top-right">
+                                    <li><i class="fas fa-phone-volume"></i>{{ site.phone }}</li>
+                                    <li class="social-icon">
+                                        <a href="https://www.facebook.com/eliteconcreteut/"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://twitter.com/eliteconcreteut"><i class="fab fa-twitter"></i></a>
+                                        <a href="https://g.page/elite-concrete-utah?share"><i class="fab fa-google-plus-g"></i></a>
+                                        <a href="https://www.pinterest.com/eliteconcreteut/"><i class="fab fa-pinterest"></i></a>
+                                        <a href="https://www.instagram.com/eliteconcreteut/"><i class="fab fa-instagram"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="rt-sticky-placeholder"></div>
+            <div id="header-menu" class="header-menu menu-layout1 pd-x-85">
+                <div class="container-fluid">
+                    <div class="row d-flex align-items-center">
+                        <div class="col-xl-2 col-lg-2">
+                            <div class="logo-area">
+                                <a href="index.html" class="temp-logo">
+                                    <img src="https://eliteconcreteutah.com/img/Elite-Concrete-Logo.png" alt="Elite Concrete Utah Logo" class="img-fluid">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-7 d-flex justify-content-end possition-static">
+                            <nav id="dropdown" class="template-main-menu">
+                                <ul>
+                                   <li>
+                                        <a href="{{ site.url }}">HOME</a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.url }}/about">ABOUT</a>
+                                        <ul class="dropdown-menu-col-1">
+                                            <li>
+                                                <a href="{{ site.url}}/blog">Blog</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.url }}/services">SERVICES</a>
+                                        <ul class="dropdown-menu-col-1">
+                                            <li>
+                                                <a href="{{ site.url}}/services/concrete-staining-utah">Concrete Staining</a>
+                                            </li>
+                                            <li>
+                                                <a href="service2.html">Services 2</a>
+                                            </li>
+                                            <li>
+                                                <a href="service3.html">Services 3</a>
+                                            </li>
+                                            <li>
+                                                <a href="single-service1.html">Single Services 1</a>
+                                            </li>
+                                            <li>
+                                                <a href="single-service2.html">Single Services 2</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.url }}/projects">PROJECTS</a>
+                                    </li>
+                                    <li>
+                                        <a href="contact.html">CONTACT</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="col-lg-3 d-flex justify-content-end">
+                            <div class="header-action-layout1">
+                                <ul>
+                                    <li class="header-action-btn">
+                                        <a href="#" class="item-btn">GET A FREE ESTIMATE</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Header Area End Here -->
+
+
+
+
+
 
         {{ content }}
 
-                {% include contact.html %}
+
+
+
+
+
+<!-- Call To Action Area Start Here -->
+<section class="action-wrap-layout1 bg-common" data-bg-image=https://eliteconcreteutah.com/img/figure/banner-shape.png">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-9 col-12">
+                <div class="action-box-layout1">
+                    <h2 class="item-title">Get Your Project Started Today!</h2>
+                </div>
+            </div>
+            <div class="col-lg-3 col-12 d-flex justify-content-lg-end justify-content-center">
+                <div class="action-box-layout1">
+                   <a href="#" class="btn-fill-xl box-shadow bg-textprimary text-accent">GET A QUOTE<i class="fas fa-angle-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Call To Action Area End Here -->
                
  <!-- Footer Area Start Here -->
  <footer class="footer-wrap-layout1">
