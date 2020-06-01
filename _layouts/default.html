@@ -6,7 +6,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <base href="{{ site.url }}">
     <title>{{ page.metaTitle }}</title>
-    <meta name="description" content="">
+    <meta name="description" content="{{ page.metaDescription }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="../img/favicon.png">
@@ -53,8 +53,8 @@
         }
     </script>
 
-    {% if page.serviceschema %}
-    {% include schema/{{ page.serviceschema }} %}
+    {% if page.schema %}
+    {% include schema/{{ page.schema }} %}
     {% endif %}
 </head>
 
