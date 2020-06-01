@@ -2,8 +2,7 @@
 layout: service
 title: Concrete Staining Utah
 metaTitle: Concrete Staining Utah - Acid Stain - Elite Concrete Utah
-metaDescription: >-
-We offer a wide range of concrete staining services to get your concrete looking amazing. We serve all of Utah. Contact us for a free estimate.
+metaDescription: We offer a wide range of concrete staining services to get your concrete looking amazing. We serve all of Utah. Contact us for a free estimate.
 servicename: Concrete Staining
 permalink: /services/concrete-staining-utah/
 bg-image: ../img/h1.png
