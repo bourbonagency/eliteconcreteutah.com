@@ -1,7 +1,12 @@
 ---
 layout: single-service
-metaTitle: Decorative Concrete Utah | Elite Concrete Utah
+title: Decorative Concrete Utah
+metaTitle: Decorative Concrete Utah | Concrete Overlay | Elite Concrete Utah
+metaDescription: Take your boring gray concrete from blah to brilliant with our decorative concrete overlay services. We offer free estimates on all projects in Utah.
+servicename: Decorative Concrete
 permalink: /services/decorative-concrete-utah
+bg-image: ../img/h1.png
+schema: decorative-concrete.html
 ---
 
 Our decorative concrete overlays are great for driveways, patios, decks and pools. However, they are also great for interior uses. Concrete overlays are a great floor for any space. They are affordable, completely custom, easy to clean and very durable. We use the highest quality products and go the extra mile to make sure your floor turns out the way you dreamed it. We offer a limitless amount of colors, designs and patterns to make sure you get exactly what you want. With over 20 years of experience we are Utah’s leader in decorative concrete overlays. Check out some recent projects down below!
