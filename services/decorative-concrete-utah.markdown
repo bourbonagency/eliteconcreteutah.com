@@ -8,10 +8,70 @@ permalink: /services/decorative-concrete-utah
 bg-image: ../img/h1.png
 ---
 
+ <div class="zoom-gallery-box">
+    <div class="tab-content">
+        <div class="tab-pane fade show active" id="related1" role="tabpanel">
+            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+        </div>
+        <div class="tab-pane fade" id="related2" role="tabpanel">
+            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+        </div>
+        <div class="tab-pane fade" id="related3" role="tabpanel">
+            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+        </div>
+        <div class="tab-pane fade" id="related4" role="tabpanel">
+            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+        </div>
+    </div>
+    <ul class="nav nav-tabs tab-nav-list" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
+                <img src="../img/service/service28.jpg" alt="related1">
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
+                <img src="../img/service/service29.jpg" alt="related1">
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
+                <img src="../img/service/service30.jpg" alt="related1">
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
+                <img src="../img/service/service31.jpg" alt="related1">
+            </a>
+        </li>
+    </ul>
+</div>
+
 Our decorative concrete overlays are great for driveways, patios, decks and pools. However, they are also great for interior uses. Concrete overlays are a great floor for any space. They are affordable, completely custom, easy to clean and very durable. We use the highest quality products and go the extra mile to make sure your floor turns out the way you dreamed it. We offer a limitless amount of colors, designs and patterns to make sure you get exactly what you want. With over 20 years of experience we are Utah’s leader in decorative concrete overlays. Check out some recent projects down below!
 
 ## Our Recent Decorative Concrete Overlay Projects
 We have worked on hundreds of concrete overlays over the years. Down below are a few of the most recent and popular projects we have completed. If you want to see more projects like this head on over to our portfolio and check them out. If you don’t see exactly what you’re looking for feel free to contact us and we can share even more of our work.
+
+<div class="gallery-img">
+    <div class="row gutters-20">
+        <div class="col-lg-4 col-sm-4 col-6">
+            <div class="item-img">
+                <img src="../img/service/service25.jpg" alt="service">
+            </div>
+        </div>
+        <div class="col-lg-4 col-sm-4 col-6">
+            <div class="item-img">
+                <img src="../img/service/service25.jpg" alt="service">
+            </div>
+        </div>
+        <div class="col-lg-4 col-sm-4 d-none d-sm-block">
+            <div class="item-img">
+                <img src="../img/service/service27.jpg" alt="service">
+            </div>
+        </div>
+    </div>
+</div>
+<br />
 
 ## Frequently Asked Questions About Decorative Concrete
 When you provide a service for a long time like we have you start to find the questions that everyone asks. We have compiled those most popular questions and provide the best answers we can. If you want to learn more about our service feel free to reach out.
