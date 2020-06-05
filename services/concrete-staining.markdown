@@ -81,17 +81,17 @@ We have completed many stained concrete projects all across Utah. In fact we’v
     <div class="row gutters-20">
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="../img/service/service25.jpg" alt="service">
+                <img src="../img/concrete-staining-utah.jpg" alt="concrete staining utah">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="../img/service/service25.jpg" alt="service">
+                <img src="../img/stained-pool-deck.jpg" alt="decorative concrete around a pool">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 d-none d-sm-block">
             <div class="item-img">
-                <img src="../img/service/service27.jpg" alt="service">
+                <img src="../img/commercial-concrete-services.jpg" alt="commercial concrete">
             </div>
         </div>
     </div>
