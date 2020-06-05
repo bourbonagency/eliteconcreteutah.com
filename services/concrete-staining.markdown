@@ -49,7 +49,7 @@ schema: concrete-staining.html
     </ul>
 </div>
 
-## Concrete Staining Utah
+## Utah Concrete Staining Services
 If you’re looking for an affordable way to make your boring gray concrete look amazing then concrete staining is for you. 
 
 You no longer have to settle for ugly gray concrete. Instead you can have great looking concrete that matches your house, decor or whatever you want! Our concrete staining service is perfect for driveways, patios, basements, retaining wall or any other concrete surface you have! Our stain system is perfect for your home, business or even industrial environments.
@@ -60,7 +60,7 @@ If you need help planning out your project we have you covered there too. We are
 We offer many different types of concrete stains including acid stains, dye stains and antiquing stains. This allows us to provide many colors, textures and patterns for you. These different stains work great in many different systems and styles. If you aren’t sure which system is right for you feel free to contact us and we will be happy to help.
 
 ### Acid Stain
-Our acid stain reactively creates variegated, uneven and translucent coloring effects resembling that of natural stone. Elegant, distinctive and lasting, the look is ideal for exterior architectural concrete surfaces as well as interior floors and walls. Each application of acid stain is completely unique from the last, which is why the look cannot be duplicated.
+Our <a href="https://en.wikipedia.org/wiki/Decorative_concrete#Acid_Staining" rel="nofollow" target="_blank">acid stain</a> reactively creates variegated, uneven and translucent coloring effects resembling that of natural stone. Elegant, distinctive and lasting, the look is ideal for exterior architectural concrete surfaces as well as interior floors and walls. Each application of acid stain is completely unique from the last, which is why the look cannot be duplicated.
 
 Acid staining offers superior durability and abrasion resistance compared to that of conventional concrete floors coated with acrylic stains and paint which can wear off weather away quickly and delaminate.
 
