@@ -126,7 +126,7 @@ We have completed many stained concrete projects all across Utah. In fact we’v
             </div>
             <div class="form-response"></div>
         </form>
-    </div>
+    </div><br />
 
 ## Frequently Asked Questions About Concrete Stain
 Here are some of the most common questions we get about our concrete staining service.
