@@ -6,6 +6,7 @@ metaDescription: Take your boring gray concrete from blah to brilliant with our 
 servicename: Decorative Concrete
 permalink: /services/decorative-concrete-utah
 bg-image: ../img/h1.png
+schema: decorative-concrete.html
 ---
 
  <div class="zoom-gallery-box">
