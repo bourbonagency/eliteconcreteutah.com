@@ -16,7 +16,7 @@ schema: concrete-staining.html
             <img class="zoom_01" src="../img/stained-concrete-in-basement.jpg" data-zoom-image="../img/stained-concrete-in-basement.jpg" alt="stained concrete in a basement">
         </div>
         <div class="tab-pane fade" id="related2" role="tabpanel">
-            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="../img/acid-stained-driveway.jpg" data-zoom-image="../img/acid-stained-driveway.jp" alt="acid stained driveway">
         </div>
         <div class="tab-pane fade" id="related3" role="tabpanel">
             <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
@@ -28,12 +28,12 @@ schema: concrete-staining.html
     <ul class="nav nav-tabs tab-nav-list" role="tablist">
         <li class="nav-item">
             <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-                <img src="../img/stained-concrete-in-man-cave" alt="man cave with brown stained concrete">
+                <img src="../img/stained-concrete-in-man-cave.jpg" alt="man cave with brown stained concrete">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-                <img src="../img/service/service29.jpg" alt="related1">
+                <img src="../img/acid-stained-side-walk.jpg" alt="acid stain on a walkway">
             </a>
         </li>
         <li class="nav-item">
