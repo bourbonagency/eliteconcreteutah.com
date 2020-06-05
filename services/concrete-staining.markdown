@@ -13,37 +13,37 @@ schema: concrete-staining.html
  <div class="zoom-gallery-box">
     <div class="tab-content">
         <div class="tab-pane fade show active" id="related1" role="tabpanel">
-            <img class="zoom_01" src="../img/stained-concrete-in-basement.jpg" data-zoom-image="../img/stained-concrete-in-basement.jpg" alt="stained concrete in a basement">
+            <img class="zoom_01" src="{{ site.url}}/img/stained-concrete-in-basement.jpg" data-zoom-image="{{ site.url}}/img/stained-concrete-in-basement.jpg" alt="stained concrete in a basement">
         </div>
         <div class="tab-pane fade" id="related2" role="tabpanel">
-            <img class="zoom_01" src="../img/acid-stained-driveway.jpg" data-zoom-image="../img/acid-stained-driveway.jp" alt="acid stained driveway">
+            <img class="zoom_01" src="{{ site.url}}/img/acid-stained-driveway.jpg" data-zoom-image="{{ site.url}}/img/acid-stained-driveway.jp" alt="acid stained driveway">
         </div>
         <div class="tab-pane fade" id="related3" role="tabpanel">
-            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="{{ site.url}}/img/living-room-with-stained-concrete.jpg" data-zoom-image="{{ site.url}}/img/living-room-with-stained-concrete.jpg" alt="residential living room with stained concrete">
         </div>
         <div class="tab-pane fade" id="related4" role="tabpanel">
-            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="{{ site.url}}/img/concrete-overlay-with-acid-stain.jpg" data-zoom-image="{{ site.url}}/img/concrete-overlay-with-acid-stain.jpg" alt="decorative concrete overlay">
         </div>
     </div>
     <ul class="nav nav-tabs tab-nav-list" role="tablist">
         <li class="nav-item">
             <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-                <img src="../img/stained-concrete-in-man-cave.jpg" alt="man cave with brown stained concrete">
+                <img src="{{ site.url}}/img/stained-concrete-in-man-cave.jpg" alt="man cave with brown stained concrete">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-                <img src="../img/acid-stained-side-walk.jpg" alt="acid stain on a walkway">
+                <img src="{{ site.url}}/img/acid-stained-side-walk.jpg" alt="acid stain on a walkway">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-                <img src="../img/service/service30.jpg" alt="related1">
+                <img src="{{ site.url}}/img/charcoal-dye-stain.jpg" alt="concrete dye stain services">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-                <img src="../img/service/service31.jpg" alt="related1">
+                <img src="{{ site.url}}/img/concrete-staining-and-sealing.jpg" alt="concrete staining and sealing">
             </a>
         </li>
     </ul>
