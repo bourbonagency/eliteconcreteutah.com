@@ -117,7 +117,7 @@ We have completed many stained concrete projects all across Utah. In fact we’v
                     <div class="help-block with-errors"></div>
                 </div>
                 <div class="col-12 form-group">
-                    <input type="text" placeholder="What’s your question *" class="form-control" name="question" data-error="Question field is required" required>
+                    <input type="text" placeholder="Tell us about your project... *" class="form-control" name="about" data-error="About field is required" required>
                     <div class="help-block with-errors"></div>
                 </div>
                 <div class="col-12 form-group">
