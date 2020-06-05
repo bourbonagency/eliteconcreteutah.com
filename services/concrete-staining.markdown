@@ -67,7 +67,7 @@ Acid staining offers superior durability and abrasion resistance compared to tha
 ### Antiquing Stain
 Our antiquing stain is a water based product that creates variegated, uneven and translucent coloring effects resembling that of natural stone. Elegant, distinctive and lasting, the look is ideal for exterior architectural concrete surfaces as well as interior floors and walls.
 
-This stain adds life to surfaces. Sidewalks, malls, retail floors and office complexes become alive with durable, yet imaginative, glare-reducing colors and patterns.
+This stain adds life to surfaces. Sidewalks, malls, retail floors and office complexes become alive with durable, yet imaginative, glare-reducing colors and patterns. Our antiquing stain works best when paired with our <a href="https://eliteconcreteutah.com/services/decorative-concrete-utah" target="_blank">decorative concrete overlays</a>.
 
 ### Dye Stain
 This stain is a concentrated, penetrating, metal complex dye that chemically colors polymer modified concrete overlays, polished concrete and conventional concrete surfaces to produce a permanent and translucent color effect.
