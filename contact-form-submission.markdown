@@ -3,6 +3,7 @@ layout: default
 metaTitle: Thank You!
 permalink: /thank-you/
 noindex: true
+sitemap: false
 ---
 
 
