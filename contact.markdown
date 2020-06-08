@@ -1,5 +1,6 @@
 ---
 layout: contact-page
-metaTitle: Contact Us | Get A Free Estimate On Your Concrete Project
+metaTitle: Contact Us | Get A Free Estimate | Elite Concrete Utah
 permalink: /contact/
+schema: contact.html
 ---
