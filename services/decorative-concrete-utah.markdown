@@ -12,16 +12,16 @@ schema: decorative-concrete.html
  <div class="zoom-gallery-box">
     <div class="tab-content">
         <div class="tab-pane fade show active" id="related1" role="tabpanel">
-            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="../img/decorative-concrete-overlay-on-driveway.jpg" data-zoom-image="../img/decorative-concrete-overlay-on-driveway.jpg" alt="concrete overlay on driveway">
         </div>
         <div class="tab-pane fade" id="related2" role="tabpanel">
-            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="../img/tile-pattern-concrete.jpg" data-zoom-image="../img/tile-pattern-concrete.jpg" alt="tile pattern carved in concrete">
         </div>
         <div class="tab-pane fade" id="related3" role="tabpanel">
-            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="../img/interior-concrete-services.jpg" data-zoom-image="../img/interior-concrete-services.jpg" alt="decorative concrete in living room">
         </div>
         <div class="tab-pane fade" id="related4" role="tabpanel">
-            <img class="zoom_01" src="../img/service/service32.jpg" data-zoom-image="../img/service/service33.jpg" alt="service">
+            <img class="zoom_01" src="../img/decorative-concrete-utah.jpg" data-zoom-image="../img/decorative-concrete-utah.jpg" alt="decorative concrete utah">
         </div>
     </div>
     <ul class="nav nav-tabs tab-nav-list" role="tablist">
