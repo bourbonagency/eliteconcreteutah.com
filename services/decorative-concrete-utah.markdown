@@ -27,7 +27,7 @@ schema: decorative-concrete.html
     <ul class="nav nav-tabs tab-nav-list" role="tablist">
         <li class="nav-item">
             <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-                <img src="../img/service/service28.jpg" alt="related1">
+                <img src="../img/decorative-concrete-overlay-on-driveway.jpg" alt="related1">
             </a>
         </li>
         <li class="nav-item">
