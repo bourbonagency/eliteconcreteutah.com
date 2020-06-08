@@ -5,44 +5,44 @@ metaTitle: Decorative Concrete Utah | Concrete Overlay | Elite Concrete Utah
 metaDescription: Take your boring gray concrete from blah to brilliant with our decorative concrete overlay services. We offer free estimates on all projects in Utah.
 servicename: Decorative Concrete
 permalink: /services/decorative-concrete-utah
-bg-image: ../img/h1.png
+bg-image: {{ site.url}}/img/h1.png
 schema: decorative-concrete.html
 ---
 
  <div class="zoom-gallery-box">
     <div class="tab-content">
         <div class="tab-pane fade show active" id="related1" role="tabpanel">
-            <img class="zoom_01" src="../img/decorative-concrete-overlay-on-driveway.jpg" data-zoom-image="../img/decorative-concrete-overlay-on-driveway.jpg" alt="concrete overlay on driveway">
+            <img class="zoom_01" src="{{ site.url}}/img/decorative-concrete-overlay-on-driveway.jpg" data-zoom-image="{{ site.url}}/img/decorative-concrete-overlay-on-driveway.jpg" alt="concrete overlay on driveway">
         </div>
         <div class="tab-pane fade" id="related2" role="tabpanel">
-            <img class="zoom_01" src="../img/tile-pattern-concrete.jpg" data-zoom-image="../img/tile-pattern-concrete.jpg" alt="tile pattern carved in concrete">
+            <img class="zoom_01" src="{{ site.url}}/img/tile-pattern-concrete.jpg" data-zoom-image="{{ site.url}}/img/tile-pattern-concrete.jpg" alt="tile pattern carved in concrete">
         </div>
         <div class="tab-pane fade" id="related3" role="tabpanel">
-            <img class="zoom_01" src="../img/interior-concrete-services.jpg" data-zoom-image="../img/interior-concrete-services.jpg" alt="decorative concrete in living room">
+            <img class="zoom_01" src="{{ site.url}}/img/interior-concrete-services.jpg" data-zoom-image="{{ site.url}}/img/interior-concrete-services.jpg" alt="decorative concrete in living room">
         </div>
         <div class="tab-pane fade" id="related4" role="tabpanel">
-            <img class="zoom_01" src="../img/decorative-concrete-utah.jpg" data-zoom-image="../img/decorative-concrete-utah.jpg" alt="decorative concrete utah">
+            <img class="zoom_01" src="{{ site.url}}/img/decorative-concrete-utah.jpg" data-zoom-image="{{ site.url}}/img/decorative-concrete-utah.jpg" alt="decorative concrete utah">
         </div>
     </div>
     <ul class="nav nav-tabs tab-nav-list" role="tablist">
         <li class="nav-item">
             <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-                <img src="../img/thin-finish-overlay.jpg" alt="Thin-Finish Concrete Overlay">
+                <img src="{{ site.url}}/img/thin-finish-overlay.jpg" alt="Thin-Finish Concrete Overlay">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-                <img src="../img/textured-concrete.jpg" alt="stone textured concrete">
+                <img src="{{ site.url}}/img/textured-concrete.jpg" alt="stone textured concrete">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-                <img src="../img/micro-finish.jpg" alt="Elite Crete Systems Micro-Finish">
+                <img src="{{ site.url}}/img/micro-finish.jpg" alt="Elite Crete Systems Micro-Finish">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-                <img src="../img/decorative-concrete-patio.jpg" alt="decorative concrete on a patio">
+                <img src="{{ site.url}}/img/decorative-concrete-patio.jpg" alt="decorative concrete on a patio">
             </a>
         </li>
     </ul>
@@ -57,17 +57,17 @@ We have worked on hundreds of concrete overlays over the years. Down below are a
     <div class="row gutters-20">
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="../img/concrete-overlay-on-pool-deck.jpg" alt="decorative concrete overlay around a pool">
+                <img src="{{ site.url}}/img/concrete-overlay-on-pool-deck.jpg" alt="decorative concrete overlay around a pool">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="../img/wood-look-concrete-overlay.jpg" alt="wood look concrete">
+                <img src="{{ site.url}}/img/wood-look-concrete-overlay.jpg" alt="wood look concrete">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 d-none d-sm-block">
             <div class="item-img">
-                <img src="../img/thin-stamped-concrete.jpg" alt="thin stamped concrete">
+                <img src="{{ site.url}}/img/thin-stamped-concrete.jpg" alt="thin stamped concrete">
             </div>
         </div>
     </div>
