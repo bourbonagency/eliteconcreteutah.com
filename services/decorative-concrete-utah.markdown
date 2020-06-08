@@ -27,28 +27,28 @@ schema: decorative-concrete.html
     <ul class="nav nav-tabs tab-nav-list" role="tablist">
         <li class="nav-item">
             <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-                <img src="../img/decorative-concrete-overlay-on-driveway.jpg" alt="related1">
+                <img src="../img/thin-finish-overlay.jpg" alt="Thin-Finish Concrete Overlay">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-                <img src="../img/service/service29.jpg" alt="related1">
+                <img src="../img/textured-concrete.jpg" alt="stone textured concrete">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-                <img src="../img/service/service30.jpg" alt="related1">
+                <img src="../img/micro-finish.jpg" alt="Elite Crete Systems Micro-Finish">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-                <img src="../img/service/service31.jpg" alt="related1">
+                <img src="../img/decorative-concrete-patio.jpg" alt="decorative concrete on a patio">
             </a>
         </li>
     </ul>
 </div>
 
-Our decorative concrete overlays are great for driveways, patios, decks and pools. However, they are also great for interior uses. Concrete overlays are a great floor for any space. They are affordable, completely custom, easy to clean and very durable. We use the highest quality products and go the extra mile to make sure your floor turns out the way you dreamed it. We offer a limitless amount of colors, designs and patterns to make sure you get exactly what you want. With over 20 years of experience we are Utah’s leader in decorative concrete overlays. Check out some recent projects down below!
+Our <a href="https://en.wikipedia.org/wiki/Decorative_concrete" rel="nofollow" target="_blank">decorative concrete</a> overlays are great for driveways, patios, decks and pools. However, they are also great for interior uses. Concrete overlays are a great floor for any space. They are affordable, completely custom, easy to clean and very durable. We use the highest quality products and go the extra mile to make sure your floor turns out the way you dreamed it. We offer a limitless amount of colors, designs and patterns to make sure you get exactly what you want. With over 20 years of experience we are Utah’s leader in decorative concrete overlays. Check out some recent projects down below!
 
 ## Our Recent Decorative Concrete Overlay Projects
 We have worked on hundreds of concrete overlays over the years. Down below are a few of the most recent and popular projects we have completed. If you want to see more projects like this head on over to our portfolio and check them out. If you don’t see exactly what you’re looking for feel free to contact us and we can share even more of our work.
@@ -57,27 +57,57 @@ We have worked on hundreds of concrete overlays over the years. Down below are a
     <div class="row gutters-20">
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="../img/service/service25.jpg" alt="service">
+                <img src="../img/concrete-overlay-on-pool-deck.jpg" alt="decorative concrete overlay around a pool">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="../img/service/service25.jpg" alt="service">
+                <img src="../img/wood-look-concrete-overlay.jpg" alt="wood look concrete">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 d-none d-sm-block">
             <div class="item-img">
-                <img src="../img/service/service27.jpg" alt="service">
+                <img src="../img/thin-stamped-concrete.jpg" alt="thin stamped concrete">
             </div>
         </div>
     </div>
 </div>
 <br />
 
+<div class="widget widget-form">
+        <div class="heading-layout3">
+            <h3>Want A Free Estimate?</h3>
+        </div>
+        <form class="contact-form-box" netlify action="/thank-you">
+            <div class="row">
+                <div class="col-12 form-group">
+                    <input type="text" placeholder="Name *" class="form-control" name="name" data-error="Name field is required" required>
+                    <div class="help-block with-errors"></div>
+                </div>
+                <div class="col-12 form-group">
+                    <input type="text" placeholder="Phone *" class="form-control" name="phone" data-error="Phone number field is required" required>
+                    <div class="help-block with-errors"></div>
+                </div>
+                <div class="col-12 form-group">
+                    <input type="email" placeholder="E-mail *" class="form-control" name="email" data-error="E-mail field is required" required>
+                    <div class="help-block with-errors"></div>
+                </div>
+                <div class="col-12 form-group">
+                    <input type="text" placeholder="Tell us about your project... *" class="form-control" name="about" data-error="About field is required" required>
+                    <div class="help-block with-errors"></div>
+                </div>
+                <div class="col-12 form-group">
+                    <button type="submit" class="item-btn">Send</button>
+                </div>
+            </div>
+            <div class="form-response"></div>
+        </form>
+    </div><br />
+
 ## Frequently Asked Questions About Decorative Concrete
 When you provide a service for a long time like we have you start to find the questions that everyone asks. We have compiled those most popular questions and provide the best answers we can. If you want to learn more about our service feel free to reach out.
 ### What are the benefits of a concrete overlay?
-The main benefit of putting a decorative coating on your floor is durability. Unlike traditional flooring concrete provides more strength, scratch resistance and stain prevention. This alone is the perfect reason to resurface your existing floor with a thin concrete overlay. However, if that is not enough the number one selling point is you can make it just the way you want. We offer integral colors, acid stains, antiquing stains and much more. This allows us to get you the exact color, shade and pattern that you want. No other flooring options can do this!
+The main benefit of putting a decorative coating on your floor is durability. Unlike traditional flooring concrete provides more strength, scratch resistance and stain prevention. This alone is the perfect reason to resurface your existing floor with a thin concrete overlay. However, if that is not enough the number one selling point is you can make it just the way you want. We offer integral colors, acid stains, antiquing stains, <a href="https://eliteconcreteutah.com/services/stained-concrete-utah">concrete staining</a> and much more. This allows us to get you the exact color, shade and pattern that you want. No other flooring options can do this!
 ### How long do concrete overlays last in Utah?
 With our crazy weather many people think that a coating like this won't last. Many people are surprised to hear that most of the overlay’s that we have put down have been there for almost 14 years! They are extremely durable. Interior concrete can be sealed with an epoxy coating that will increase the life of the floor.
 ### What is the installation process?
