@@ -115,6 +115,8 @@ In order to make sure that your project looks great and will last for years to c
 ### What is the price of decorative concrete?
 Depending on the design, color, sealer and prep required the price can vary. You can expect to pay between $2.50 to $4.00 per square foot. This makes our concrete coatings much more affordable compared to traditional flooring.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_7rKL7CCbg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+
 ## Customer Testimonials
 “Best people, best product, best price, best service! Thank you Elite Concrete for an amazing  job on my patio and walkway. Amazing professionals that were a breeze to work with. I will never call anyone else. You are my concrete specialists!” - Andy DeMass
 
