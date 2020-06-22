@@ -78,30 +78,7 @@ We have worked on hundreds of concrete overlays over the years. Down below are a
         <div class="heading-layout3">
             <h3>Want A Free Estimate?</h3>
         </div>
-        <form class="contact-form-box" netlify action="/thank-you">
-            <div class="row">
-                <div class="col-12 form-group">
-                    <input type="text" placeholder="Name *" class="form-control" name="name" data-error="Name field is required" required>
-                    <div class="help-block with-errors"></div>
-                </div>
-                <div class="col-12 form-group">
-                    <input type="text" placeholder="Phone *" class="form-control" name="phone" data-error="Phone number field is required" required>
-                    <div class="help-block with-errors"></div>
-                </div>
-                <div class="col-12 form-group">
-                    <input type="email" placeholder="E-mail *" class="form-control" name="email" data-error="E-mail field is required" required>
-                    <div class="help-block with-errors"></div>
-                </div>
-                <div class="col-12 form-group">
-                    <input type="text" placeholder="Tell us about your project... *" class="form-control" name="about" data-error="About field is required" required>
-                    <div class="help-block with-errors"></div>
-                </div>
-                <div class="col-12 form-group">
-                    <button type="submit" class="item-btn">Send</button>
-                </div>
-            </div>
-            <div class="form-response"></div>
-        </form>
+        {% include form.html %}
     </div><br />
 
 ## Frequently Asked Questions About Decorative Concrete
