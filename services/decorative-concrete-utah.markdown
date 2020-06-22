@@ -3,9 +3,7 @@ layout: single-service
 title: Decorative Concrete Utah
 metaTitle: Decorative Concrete Utah | Concrete Overlay | Elite Concrete Utah
 metaDescription: Take your boring gray concrete from blah to brilliant with our decorative concrete overlay services. We offer free estimates on all projects in Utah.
-servicename: Decorative Concrete
 permalink: /services/decorative-concrete-utah
-bg-image: ../img/h1.png
 schema: decorative-concrete.html
 ---
 
