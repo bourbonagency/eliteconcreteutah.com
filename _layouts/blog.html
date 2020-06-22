@@ -11,7 +11,7 @@ layout: default
                     <h1>Our Latest Blogs</h1>
                     <ul>
                         <li>
-                            <a href="index.html">Home</a>
+                            <a href="{{ site.url }}">Home</a>
                         </li>
                         <li>Blogs</li>
                     </ul>
@@ -27,181 +27,31 @@ layout: default
         <div class="row">
             <div class="col-lg-8">
                 <div class="row">
+
+
+                    {% for post in site.posts %}
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="blog-box-layout3">
                             <div class="item-img">
-                                <a href="single-blog1.html"><img src="img/blog/blog12.jpg" alt="blog"></a>
-                                <div class="top-item">
-                                    <div class="item-date">
-                                        <span class="days">27</span>
-                                        <span class="month">APR</span>
-                                    </div>
-                                </div>
+                                <a href="{{ post.permalink}}"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
                             </div>
                             <div class="item-content">
-                                <h3 class="item-title"><a href="single-blog1.html">Many important area brands  given search 2019</a></h3>
+                                <h3 class="item-title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
                                 <ul class="entry-meta">
-                                    <li>by <a href="#">Lucas Adrone</a></li>
-                                    <li>Comments: 0</li>
+                                    <li>by <a href="{{ site.url }}">Elite Concrete Utah</a></li>
+                                    <li>Published: {{ post.date }}</li>
                                 </ul>
-                                <p>Borem ipsum dolor sit amet consec aretur adipiscing incididunt dolore.Borem ipsum dolor sit amet consec.</p>
+                                <p>{{ post.excerpt }}</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <div class="blog-box-layout3">
-                            <div class="item-img">
-                                <a href="single-blog1.html"><img src="img/blog/blog6.jpg" alt="blog"></a>
-                                <div class="top-item">
-                                    <div class="item-date">
-                                        <span class="days">27</span>
-                                        <span class="month">APR</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-blog1.html">Many important area brands  given search 2019</a></h3>
-                                <ul class="entry-meta">
-                                    <li>by <a href="#">Lucas Adrone</a></li>
-                                    <li>Comments: 0</li>
-                                </ul>
-                                <p>Borem ipsum dolor sit amet consec aretur adipiscing incididunt dolore.Borem ipsum dolor sit amet consec.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <div class="blog-box-layout3">
-                            <div class="item-img">
-                                <a href="single-blog1.html"><img src="img/blog/blog13.jpg" alt="blog"></a>
-                                <div class="top-item">
-                                    <div class="item-date">
-                                        <span class="days">27</span>
-                                        <span class="month">APR</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-blog1.html">Many important area brands  given search 2019</a></h3>
-                                <ul class="entry-meta">
-                                    <li>by <a href="#">Lucas Adrone</a></li>
-                                    <li>Comments: 0</li>
-                                </ul>
-                                <p>Borem ipsum dolor sit amet consec aretur adipiscing incididunt dolore.Borem ipsum dolor sit amet consec.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <div class="blog-box-layout3">
-                            <div class="item-img">
-                                <a href="single-blog1.html"><img src="img/blog/blog7.jpg" alt="blog"></a>
-                                <div class="top-item">
-                                    <div class="item-date">
-                                        <span class="days">27</span>
-                                        <span class="month">APR</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-blog1.html">Many important area brands  given search 2019</a></h3>
-                                <ul class="entry-meta">
-                                    <li>by <a href="#">Lucas Adrone</a></li>
-                                    <li>Comments: 0</li>
-                                </ul>
-                                <p>Borem ipsum dolor sit amet consec aretur adipiscing incididunt dolore.Borem ipsum dolor sit amet consec.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <div class="blog-box-layout3">
-                            <div class="item-img">
-                                <a href="single-blog1.html"><img src="img/blog/blog14.jpg" alt="blog"></a>
-                                <div class="top-item">
-                                    <div class="item-date">
-                                        <span class="days">27</span>
-                                        <span class="month">APR</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-blog1.html">Many important area brands  given search 2019</a></h3>
-                                <ul class="entry-meta">
-                                    <li>by <a href="#">Lucas Adrone</a></li>
-                                    <li>Comments: 0</li>
-                                </ul>
-                                <p>Borem ipsum dolor sit amet consec aretur adipiscing incididunt dolore.Borem ipsum dolor sit amet consec.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <div class="blog-box-layout3">
-                            <div class="item-img">
-                                <a href="single-blog1.html"><img src="img/blog/blog17.jpg" alt="blog"></a>
-                                <div class="top-item">
-                                    <div class="item-date">
-                                        <span class="days">27</span>
-                                        <span class="month">APR</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-blog1.html">Many important area brands  given search 2019</a></h3>
-                                <ul class="entry-meta">
-                                    <li>by <a href="#">Lucas Adrone</a></li>
-                                    <li>Comments: 0</li>
-                                </ul>
-                                <p>Borem ipsum dolor sit amet consec aretur adipiscing incididunt dolore.Borem ipsum dolor sit amet consec.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <div class="blog-box-layout3">
-                            <div class="item-img">
-                                <a href="single-blog1.html"><img src="img/blog/blog16.jpg" alt="blog"></a>
-                                <div class="top-item">
-                                    <div class="item-date">
-                                        <span class="days">27</span>
-                                        <span class="month">APR</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-blog1.html">Many important area brands  given search 2019</a></h3>
-                                <ul class="entry-meta">
-                                    <li>by <a href="#">Lucas Adrone</a></li>
-                                    <li>Comments: 0</li>
-                                </ul>
-                                <p>Borem ipsum dolor sit amet consec aretur adipiscing incididunt dolore.Borem ipsum dolor sit amet consec.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <div class="blog-box-layout3">
-                            <div class="item-img">
-                                <a href="single-blog1.html"><img src="img/blog/blog15.jpg" alt="blog"></a>
-                                <div class="top-item">
-                                    <div class="item-date">
-                                        <span class="days">27</span>
-                                        <span class="month">APR</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-blog1.html">Many important area brands  given search 2019</a></h3>
-                                <ul class="entry-meta">
-                                    <li>by <a href="#">Lucas Adrone</a></li>
-                                    <li>Comments: 0</li>
-                                </ul>
-                                <p>Borem ipsum dolor sit amet consec aretur adipiscing incididunt dolore.Borem ipsum dolor sit amet consec.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="pagination-layout1 mg-t-20">
-                    <ul>
-                        <li><a href="#" class="nav-item active">1</a></li>
-                        <li><a href="#" class="nav-item">2</a></li>
-                        <li><a href="#" class="nav-item">3</a></li>
-                    </ul>
+                    {% endfor %}
+
+
+
+
+
+
                 </div>
             </div>
             <div class="col-lg-4 sidebar-break-md sidebar-widget-area">
