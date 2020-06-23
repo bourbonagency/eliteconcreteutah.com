@@ -2,11 +2,9 @@
     <div class="row">
         <div class="col-12 form-group">
           <label>Your Name: <input class="form-control" type="text" name="name" required /></label>
-          <label>Your Email: <input class="form-control" type="email" name="email" required /></label>
         </div>
         <div class="col-12 form-group">
           <label>Your Email: <input class="form-control" type="email" name="email" required /></label>
-          <label>Your Phone Number: <input class="form-control" type="text" name="phone" required /></label>
         </div>
         <div class="col-12 form-group">
           <label>Your Phone Number: <input class="form-control" type="text" name="phone" required /></label>
@@ -23,28 +21,10 @@
           </label>
         </div>
         <div class="col-12 form-group">
+          <label>Estimated Square Footage: <input class="form-control" type="text" name="sqft" required /></label>
+        </div>
+        <div class="col-12 form-group">
             <button type="submit" class="fw-btn-fill mg-t-10 bg-Primary text-textprimary">SEND<i class="fas fa-chevron-right"></i></button>
         </div>
     </div>
 </form>
-
-<form class="contact-form-box" name="contact" method="POST" data-netlify="true">
-    <p class="form-group">
-      <label>Your Name: <input class="form-control" type="text" name="name" /></label>   
-    </p>
-    <p class="form-group">
-      <label>Your Email: <input class="form-control" type="email" name="email" /></label>
-    </p>
-    <p class="form-group">
-      <label>Your Role: <select name="role[]" multiple>
-        <option value="leader">Leader</option>
-        <option value="follower">Follower</option>
-      </select></label>
-    </p>
-    <p class="form-group">
-      <label>Message: <textarea class="form-control" name="message"></textarea></label>
-    </p>
-    <p class="form-group">
-      <button type="submit">Send</button>
-    </p>
-  </form>
