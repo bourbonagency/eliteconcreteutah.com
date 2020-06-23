@@ -2268,6 +2268,9 @@ h6 {
   border-radius: 4px;
   background-color: #184266;
 }
+.contact-form-box input {
+  width:100% !important;
+}
 @media only screen and (max-width: 991px) {
   .footer-box-layout1 .footer-form-box .contact-form-box .form-group .form-control {
     font-size: 14px;
