@@ -39,3 +39,23 @@
     </div>
 </form>
 
+<form class="contact-form-box" name="contact" method="POST" data-netlify="true">
+    <p class="form-group">
+      <label>Your Name: <input type="text" name="name" /></label>   
+    </p>
+    <p class="form-group">
+      <label>Your Email: <input type="email" name="email" /></label>
+    </p>
+    <p class="form-group">
+      <label>Your Role: <select name="role[]" multiple>
+        <option value="leader">Leader</option>
+        <option value="follower">Follower</option>
+      </select></label>
+    </p>
+    <p class="form-group">
+      <label>Message: <textarea name="message"></textarea></label>
+    </p>
+    <p class="form-group">
+      <button type="submit">Send</button>
+    </p>
+  </form>
