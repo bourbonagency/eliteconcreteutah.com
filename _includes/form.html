@@ -1,17 +1,17 @@
 <form class="contact-form-box" name="contact" method="POST" data-netlify="true">
     <div class="row">
         <div class="col-12 form-group">
-          <label>Your Name: <input class="form-control" type="text" name="name" /></label>
+          <label>Your Name: <input class="form-control" type="text" name="name" required /></label>
         </div>
         <div class="col-12 form-group">
           <label>Your Email: <input class="form-control" type="email" name="email" required /></label>
         </div>
         <div class="col-12 form-group">
-            <input type="text" placeholder="Phone*" class="form-control" name="phone" data-error="Phone field is required" required>
+          <label>Your Phone Number: <input class="form-control" type="text" name="phone" required /></label>
         </div>
         <div class="col-12 form-group">
             <label>What service are you interested in?
-            <select class="select2" name="service[]" required multiple>
+            <select class="select2" name="service[]" required>
                 <option value="Epoxy Flooring">Epoxy Flooring</option>
                 <option value="Decorative Concrete">Decorative Concrete</option>
                 <option value="New Concrete">New Concrete</option>
