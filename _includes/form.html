@@ -1,18 +1,16 @@
-<form class="contact-form-box" id="contact-form-2" netlify action="/contact/thanks">
+<form class="contact-form-box" id="contact-form-2" name="main-contact-form" netlify action="/contact/thanks">
     <div class="row">
         <div class="col-12 form-group">
             <input type="text" placeholder="Name*" class="form-control" name="name" data-error="Name field is required" required>
-            <div class="help-block with-errors"></div>
         </div>
         <div class="col-12 form-group">
             <input type="email" placeholder="E-mail*" class="form-control" name="email" data-error="email field is required" required>
-            <div class="help-block with-errors"></div>
         </div>
         <div class="col-12 form-group">
             <input type="text" placeholder="Phone*" class="form-control" name="phone" data-error="Phone field is required" required>
-            <div class="help-block with-errors"></div>
         </div>
         <div class="col-12 form-group">
+            <label>What service are you interested in?</label>
             <select class="select2" name="service" data-error="This field is required">
                 <option value="Epoxy Flooring">Epoxy Flooring</option>
                 <option value="Decorative Concrete">Decorative Concrete</option>
@@ -20,7 +18,6 @@
                 <option value="Something Else">Something Else</option>
                 <option value="Not Sure">Not Sure</option>
             </select>
-            <div class="help-block with-errors"></div>
         </div>
         <div class="col-12 form-group">
             <label>What kind of project do you have?</label>
@@ -29,19 +26,15 @@
                 <option value="Commercial">Commercial</option>
                 <option value="Industrial">Industrial</option>
             </select>
-            <div class="help-block with-errors"></div>
         </div>
         <div class="col-12 form-group">
             <input type="text" placeholder="How many square feet?" class="form-control" name="sqft" data-error="Estimated square footage field is required" required>
-            <div class="help-block with-errors"></div>
         </div>
         <div class="col-12 form-group">
             <textarea name="about" placeholder="Tell us about your project..." class="form-control" data-error="About field is required" cols="30" rows="4" required></textarea>
-            <div class="help-block with-errors"></div>
         </div>
         <div class="col-12 form-group">
             <button type="submit" class="fw-btn-fill mg-t-10 bg-Primary text-textprimary">SEND<i class="fas fa-chevron-right"></i></button>
         </div>
     </div>
-    <div class="form-response"></div>
 </form>
