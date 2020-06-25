@@ -10,16 +10,16 @@ schema: concrete-staining.html
  <div class="zoom-gallery-box">
     <div class="tab-content">
         <div class="tab-pane fade show active" id="related1" role="tabpanel">
-            <img class="zoom_01" src="{{ site.url}}/img/stained-concrete-in-basement.jpg" data-zoom-image="{{ site.url}}/img/stained-concrete-in-basement.jpg" alt="stained concrete in a basement">
+            <img class="zoom_01" src="/img/stained-concrete-in-basement.jpg" data-zoom-image="/img/stained-concrete-in-basement.jpg" alt="stained concrete in a basement">
         </div>
         <div class="tab-pane fade" id="related2" role="tabpanel">
-            <img class="zoom_01" src="{{ site.url}}/img/acid-stained-driveway.jpg" data-zoom-image="{{ site.url}}/img/acid-stained-driveway.jp" alt="acid stained driveway">
+            <img class="zoom_01" src="/img/acid-stained-driveway.jpg" data-zoom-image="/img/acid-stained-driveway.jp" alt="acid stained driveway">
         </div>
         <div class="tab-pane fade" id="related3" role="tabpanel">
-            <img class="zoom_01" src="{{ site.url}}/img/living-room-with-stained-concrete.jpg" data-zoom-image="{{ site.url}}/img/living-room-with-stained-concrete.jpg" alt="residential living room with stained concrete">
+            <img class="zoom_01" src="/img/living-room-with-stained-concrete.jpg" data-zoom-image="/img/living-room-with-stained-concrete.jpg" alt="residential living room with stained concrete">
         </div>
         <div class="tab-pane fade" id="related4" role="tabpanel">
-            <img class="zoom_01" src="{{ site.url}}/img/concrete-overlay-with-acid-stain.jpg" data-zoom-image="{{ site.url}}/img/concrete-overlay-with-acid-stain.jpg" alt="decorative concrete overlay">
+            <img class="zoom_01" src="/img/concrete-overlay-with-acid-stain.jpg" data-zoom-image="/img/concrete-overlay-with-acid-stain.jpg" alt="decorative concrete overlay">
         </div>
     </div>
     <ul class="nav nav-tabs tab-nav-list" role="tablist">
