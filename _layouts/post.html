@@ -43,115 +43,59 @@ layout: default
             </div>        
                         
                 
-            <div class="col-lg-4 sidebar-break-md sidebar-widget-area">
-                <div class="widget widget-search-box">
-                    <div class="input-group stylish-input-group">
-                        <input type="text" class="form-control" placeholder="Search Keywords ...">
-                        <span class="input-group-addon">
-                            <button type="submit">
-                                <span class="fas fa-search" aria-hidden="true"></span>
-                            </button>
-                        </span>
-                    </div>
-                </div>
+            <div class="col-lg-4 col-12 sidebar-break-md sidebar-widget-area">
                 <div class="widget widget-service">
                     <div class="heading-layout3 mg-b-0">
-                        <h3 class="mg-b-8">Categories</h3>
+                        <h3 class="mg-b-8">Our Services</h3>
                     </div>
                     <div class="service-list">
                         <ul>
                             <li>
-                                <a href="#"><i class="fas fa-long-arrow-alt-right"></i>Roof Repair</a>
+                                <a href="{{ site.url }}/services/concrete-staining-utah"><i class="fas fa-long-arrow-alt-right"></i>Concrete Staining</a>
                             </li>
                             <li>
-                                <a href="#"><i class="fas fa-long-arrow-alt-right"></i>Siding</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fas fa-long-arrow-alt-right"></i>Insulation</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fas fa-long-arrow-alt-right"></i>Gutters</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fas fa-long-arrow-alt-right"></i>Inspection</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fas fa-long-arrow-alt-right"></i>Replacement</a>
+                                <a href="{{ site.url }}/services/decorative-concrete-utah"><i class="fas fa-long-arrow-alt-right"></i>Decorative Concrete</a>
                             </li>
                         </ul>
                     </div>
                 </div>
-                <div class="widget widget-post">
+                <div class="widget widget-download">
                     <div class="heading-layout3">
-                        <h3>Popular Posts</h3>
+                        <h3>Check Out Our Color Charts</h3>
                     </div>
-                    <div class="media">
-                        <div class="item-img">
-                            <a href="#">
-                                <img src="img/blog/blog8.jpg" alt="News">
-                            </a>
-                        </div>
-                        <div class="media-body space-sm">
-                            <h5 class="post-title">
-                                <a href="#">We won best factory  award of the ...</a>
-                            </h5>
-                            <div class="post-date">Jan 24, 2019</div>
-                        </div>
-                    </div>
-                    <div class="media">
-                        <div class="item-img">
-                            <a href="#">
-                                <img src="img/blog/blog9.jpg" alt="News">
-                            </a>
-                        </div>
-                        <div class="media-body space-sm">
-                            <h5 class="post-title">
-                                <a href="#">We won best factory  award of the ...</a>
-                            </h5>
-                            <div class="post-date">Jan 24, 2019</div>
-                        </div>
-                    </div>
-                    <div class="media">
-                        <div class="item-img">
-                            <a href="#">
-                                <img src="img/blog/blog10.jpg" alt="News">
-                            </a>
-                        </div>
-                        <div class="media-body space-sm">
-                            <h5 class="post-title">
-                                <a href="#">We won best factory  award of the ...</a>
-                            </h5>
-                            <div class="post-date">Jan 24, 2019</div>
-                        </div>
-                    </div>
-                    <div class="media">
-                        <div class="item-img">
-                            <a href="#">
-                                <img src="img/blog/blog11.jpg" alt="News">
-                            </a>
-                        </div>
-                        <div class="media-body space-sm">
-                            <h5 class="post-title">
-                                <a href="#">We won best factory  award of the ...</a>
-                            </h5>
-                            <div class="post-date">Jan 24, 2019</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="widget widget-tag">
-                    <div class="heading-layout3">
-                        <h3>Tags</h3>
-                    </div>
-                    <ul class="tag-list">
-                        <li><a href="#">Roofing</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Repair</a></li>
-                        <li><a href="#">Architecture</a></li>
-                        <li><a href="#">Construction</a></li>
-                        <li><a href="#">Roofing</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Repair</a></li>
+                    <ul class="item-list">
+                        <li>
+                            <a href="{{ site.url }}/docs/reflector_chart.pdf" target="_blank"><i class="far fa-file-pdf"></i>Metallic Epoxy PDF</a>
+                        </li>
+                        <li>
+                            <a href="{{ site.url }}/docs/e100_epoxy_chart.pdf" target="_blank"><i class="far fa-file-pdf"></i>Solid Color Epoxy Epoxy PDF</a>
+                        </li>
+                        <li>
+                            <a href="{{ site.url }}/docs/pcc_chart.pdf" target="_blank"><i class="far fa-file-pdf"></i>Concrete Overlay PDF</a>
+                        </li>
+                        <li>
+                            <a href="{{ site.url }}/docs/hydrastone_chart.pdf" target="_blank"><i class="far fa-file-pdf"></i>Dye Stain PDF</a>
+                        </li>
+                        <li>
+                            <a href="{{ site.url }}/docs/chem_stone_chart.pdf" target="_blank"><i class="far fa-file-pdf"></i>Acid Stain PDF</a>
+                        </li>
                     </ul>
+                </div>
+                <div class="widget widget-form d-none d-sm-block">
+                    <div class="heading-layout3">
+                        <h3>Let's Talk About Your Project</h3>
+                    </div>
+                    {% include form.html %}
+                </div>
+                <div class="widget widget-banner d-none d-sm-block">
+                    <div class="banner-img">
+                        <img src="{{ site.url }}/img/metallic-epoxy-floor-in-waiting-room.jpg" alt="Metallic Epoxy Flooring">
+                        <div class="item-content">
+                            <div class="big-text">Free Estimates</div>
+                            <div class="sub-text">For All Projects Inside Of Utah</div>
+                            <a href="{{ site.url }}/contact" class="item-btn">Make An Appointment</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
