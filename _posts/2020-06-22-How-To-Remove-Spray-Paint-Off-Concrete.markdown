@@ -8,8 +8,6 @@ ftImg: https://eliteconcreteutah.com/img/h1.png
 schema: post.html
 ---
 
-# How To Remove Spray Paint Off Concrete
+## 5 Tips To Get Spray Paint Off Concrete
 
-First Blog post
-
-{{ page.ftImg }}
+Removing spray concrete can seem impossible, but with these five tips you'll have your concrete looking great again!
