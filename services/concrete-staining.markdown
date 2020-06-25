@@ -25,22 +25,22 @@ schema: concrete-staining.html
     <ul class="nav nav-tabs tab-nav-list" role="tablist">
         <li class="nav-item">
             <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-                <img src="{{ site.url}}/img/stained-concrete-in-man-cave.jpg" alt="man cave with brown stained concrete">
+                <img src="/img/stained-concrete-in-man-cave.jpg" alt="man cave with brown stained concrete">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-                <img src="{{ site.url}}/img/acid-stained-side-walk.jpg" alt="acid stain on a walkway">
+                <img src="/img/acid-stained-side-walk.jpg" alt="acid stain on a walkway">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-                <img src="{{ site.url}}/img/charcoal-dye-stain.jpg" alt="concrete dye stain services">
+                <img src="/img/charcoal-dye-stain.jpg" alt="concrete dye stain services">
             </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-                <img src="{{ site.url}}/img/concrete-staining-and-sealing.jpg" alt="concrete staining and sealing">
+                <img src="/img/concrete-staining-and-sealing.jpg" alt="concrete staining and sealing">
             </a>
         </li>
     </ul>
@@ -78,17 +78,17 @@ We have completed many stained concrete projects all across Utah. In fact we’v
     <div class="row gutters-20">
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="../img/concrete-staining-utah.jpg" alt="concrete staining utah">
+                <img src="/img/concrete-staining-utah.jpg" alt="concrete staining utah">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 col-6">
             <div class="item-img">
-                <img src="../img/stained-pool-deck.jpg" alt="decorative concrete around a pool">
+                <img src="/img/stained-pool-deck.jpg" alt="decorative concrete around a pool">
             </div>
         </div>
         <div class="col-lg-4 col-sm-4 d-none d-sm-block">
             <div class="item-img">
-                <img src="../img/commercial-concrete-services.jpg" alt="commercial concrete">
+                <img src="/img/commercial-concrete-services.jpg" alt="commercial concrete">
             </div>
         </div>
     </div>
