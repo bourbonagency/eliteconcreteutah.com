@@ -5,6 +5,7 @@ metaDescription: Spray paint can be difficult to remove from your concrete. This
 title: How To Remove Spray Paint Off Concrete
 permalink: /blog/remove-spray-paint-from-concrete
 ftImg: https://eliteconcreteutah.com/img/h1.png
+schema: post.html
 ---
 
 # How To Remove Spray Paint Off Concrete
