@@ -22,11 +22,11 @@ This can be applied to surfaces both inside and outside the property to protect 
 
 Here are some pros of this concrete sealer that make it a widely popular choice:
 
-* Has high recoating capabilities
-* Protects surfaces extremely well against moisture
-* They dry quickly
-* Enhances the color of interior surfaces
-* UV-resistant
+  * Has high recoating capabilities
+  * Protects surfaces extremely well against moisture
+  * They dry quickly
+  * Enhances the color of interior surfaces
+  * UV-resistant
 
 ## Penetrating Sealers
 
@@ -36,11 +36,11 @@ They are the best choice among all the common concrete sealers if you want to ke
 
 Here are some pros of penetrating sealers:
 
-* Boosts the durability of concrete surfaces
-* No slippery feel even when it is cold
-* Does not change the appearance of the surface in any way
-* Perfect for surfaces that are prone to extreme weather conditions
-* Protects against UV rays, erosion, and staining
+  * Boosts the durability of concrete surfaces
+  * No slippery feel even when it is cold
+  * Does not change the appearance of the surface in any way
+  * Perfect for surfaces that are prone to extreme weather conditions
+  * Protects against UV rays, erosion, and staining
 
 ## Polyurethane Sealers
 
@@ -51,11 +51,11 @@ This sealer comes in two types. Water-based and solvent-based. They function opt
 
 Here are some benefits of this sealer that make it an ideal choice for both interior and exterior surfaces:
 
-* Extremely durable
-* They don’t make the surface yellow after a while
-* Sturdy
-* Prevents scuffing and staining
-* Comes in a variety of finishes from light to highly glossed
+  * Extremely durable
+  * They don’t make the surface yellow after a while
+  * Sturdy
+  * Prevents scuffing and staining
+  * Comes in a variety of finishes from light to highly glossed
 
 ## Epoxy Sealers
 
@@ -65,10 +65,10 @@ This sealer is also much thicker than an acrylic sealer and is ideal for providi
 
 Here are some benefits of epoxy sealer:
 
-* Durable
-* They can be colored as to provide a colored pigment to the surface
-* Comes in a variety of sheens from medium to highly-glossed
-* Resists abrasion
+  * Durable
+  * They can be colored as to provide a colored pigment to the surface
+  * Comes in a variety of sheens from medium to highly-glossed
+  * Resists abrasion
 
 ## Final Words
 
