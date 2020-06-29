@@ -12,7 +12,7 @@ schema: post.html
 
 The surface of your premises needs to be protected from any sort of damage and contaminant. This is why choosing the right type of concrete sealer is crucial because it will determine which area will be protected.
 
-Different concrete sealers protect different surfaces. This is one reason why it is essential to know about common concrete sealers. This way you can make the best decision and protect the surfaces of your home for a long time.
+Different concrete sealers protect different surfaces. This is one reason why it is essential to know about common concrete sealers. This way you can make the best decision and protect the surfaces of your home for a long time. One thing to always consider is when you are choosing a concrete sealer you want to make sure you are getting a high quality sealer. Going to <a href="https://www.homedepot.com/b/Paint-Concrete-Coatings-Concrete-Sealers/N-5yc1vZcj9b" target="_blank">Home Depot</a> and grabbing the cheapest option may not give you the results you are looking for. We recommend talking to your local concrete contractor about your options.
 
 ## Acrylic Concrete Sealer
 
