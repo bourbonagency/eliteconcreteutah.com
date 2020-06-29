@@ -22,11 +22,13 @@ This can be applied to surfaces both inside and outside the property to protect 
 
 Here are some pros of this concrete sealer that make it a widely popular choice:
 
-  * Has high recoating capabilities
-  * Protects surfaces extremely well against moisture
-  * They dry quickly
-  * Enhances the color of interior surfaces
-  * UV-resistant
+  <ul>
+  <li>Has high recoating capabilities</li>
+  <li>Protects surfaces extremely well against moisture</li>
+  <li>They dry quickly</li>
+  <li>Enhances the color of interior surfaces</li>
+  <li>UV-resistant</li>
+  </ul>
 
 ## Penetrating Sealers
 
@@ -36,11 +38,13 @@ They are the best choice among all the common concrete sealers if you want to ke
 
 Here are some pros of penetrating sealers:
 
-  * Boosts the durability of concrete surfaces
-  * No slippery feel even when it is cold
-  * Does not change the appearance of the surface in any way
-  * Perfect for surfaces that are prone to extreme weather conditions
-  * Protects against UV rays, erosion, and staining
+  <ul>
+  <li>Boosts the durability of concrete surfaces</li>
+  <li>No slippery feel even when it is cold</li>
+  <li>Does not change the appearance of the surface in any way</li>
+  <li>Perfect for surfaces that are prone to extreme weather conditions</li>
+  <li>Protects against UV rays, erosion, and staining</li>
+  </ul>
 
 ## Polyurethane Sealers
 
@@ -51,11 +55,13 @@ This sealer comes in two types. Water-based and solvent-based. They function opt
 
 Here are some benefits of this sealer that make it an ideal choice for both interior and exterior surfaces:
 
-  * Extremely durable
-  * They don’t make the surface yellow after a while
-  * Sturdy
-  * Prevents scuffing and staining
-  * Comes in a variety of finishes from light to highly glossed
+  <ul>
+  <li>Extremely durable</li>
+  <li>They don’t make the surface yellow after a while</li>
+  <li>Sturdy</li>
+  <li>Prevents scuffing and staining</li>
+  <li>Comes in a variety of finishes from light to highly glossed</li>
+  </ul>
 
 ## Epoxy Sealers
 
@@ -64,11 +70,12 @@ Here are some benefits of this sealer that make it an ideal choice for both inte
 This sealer is also much thicker than an acrylic sealer and is ideal for providing a decorative finish to surfaces such as countertops. It enhances the beauty of the surface and it protects it against damage.
 
 Here are some benefits of epoxy sealer:
-
-  * Durable
-  * They can be colored as to provide a colored pigment to the surface
-  * Comes in a variety of sheens from medium to highly-glossed
-  * Resists abrasion
+  <ul>
+  <li>Durable</li>
+  <li>They can be colored as to provide a colored pigment to the surface</li>
+  <li>Comes in a variety of sheens from medium to highly-glossed</li>
+  <li>Resists abrasion</li>
+  </ul>
 
 ## Final Words
 
