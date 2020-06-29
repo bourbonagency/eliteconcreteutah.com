@@ -2302,6 +2302,10 @@ h6 {
   background-color: #ffffff;
   color: #111111;
 }
+
+.blog-list {
+  list-style: bullet;
+}
 /*------------------- 4.3 Global -------------------*/
 a {
   text-decoration: none;

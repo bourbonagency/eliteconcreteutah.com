@@ -22,7 +22,7 @@ This can be applied to surfaces both inside and outside the property to protect 
 
 Here are some pros of this concrete sealer that make it a widely popular choice:
 
-  <ul>
+  <ul class="blog-list">
   <li>Has high recoating capabilities</li>
   <li>Protects surfaces extremely well against moisture</li>
   <li>They dry quickly</li>
@@ -38,7 +38,7 @@ They are the best choice among all the common concrete sealers if you want to ke
 
 Here are some pros of penetrating sealers:
 
-  <ul>
+  <ul class="blog-list">
   <li>Boosts the durability of concrete surfaces</li>
   <li>No slippery feel even when it is cold</li>
   <li>Does not change the appearance of the surface in any way</li>
@@ -55,7 +55,7 @@ This sealer comes in two types. Water-based and solvent-based. They function opt
 
 Here are some benefits of this sealer that make it an ideal choice for both interior and exterior surfaces:
 
-  <ul>
+  <ul class="blog-list">
   <li>Extremely durable</li>
   <li>They don’t make the surface yellow after a while</li>
   <li>Sturdy</li>
@@ -70,7 +70,7 @@ Here are some benefits of this sealer that make it an ideal choice for both inte
 This sealer is also much thicker than an acrylic sealer and is ideal for providing a decorative finish to surfaces such as countertops. It enhances the beauty of the surface and it protects it against damage.
 
 Here are some benefits of epoxy sealer:
-  <ul>
+  <ul class="blog-list">
   <li>Durable</li>
   <li>They can be colored as to provide a colored pigment to the surface</li>
   <li>Comes in a variety of sheens from medium to highly-glossed</li>
