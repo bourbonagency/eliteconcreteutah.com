@@ -2304,7 +2304,7 @@ h6 {
 }
 
 .blog-list {
-  list-style: bullet;
+  list-style-type: circle !important;
 }
 /*------------------- 4.3 Global -------------------*/
 a {
