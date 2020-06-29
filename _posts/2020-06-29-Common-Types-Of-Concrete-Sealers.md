@@ -19,52 +19,56 @@ Different concrete sealers protect different surfaces. This is one reason why it
 **Best For:** Pool decks and driveways.
 
 This can be applied to surfaces both inside and outside the property to protect them. They are one of the most common concrete sealers and are preferred by most people. For most exterior projects including <a href="/services/concrete-staining-utah">stained concrete</a> and standard concrete pads.
+
 Here are some pros of this concrete sealer that make it a widely popular choice:
 
-    - Has high recoating capabilities
-    - Protects surfaces extremely well against moisture
-    - They dry quickly
-    - Enhances the color of interior surfaces
-    - UV-resistant
+- Has high recoating capabilities
+- Protects surfaces extremely well against moisture
+- They dry quickly
+- Enhances the color of interior surfaces
+- UV-resistant
 
 ## Penetrating Sealers
 
 **Best For:** Pool decks, walkways, and driveways.
 
 They are the best choice among all the common concrete sealers if you want to keep the natural look of the surface while giving it protection. It also doesn’t leave a slippery feel on the surface so it is perfect for keeping the surface dry and sealed.
+
 Here are some pros of penetrating sealers:
 
-    - Boosts the durability of concrete surfaces
-    - No slippery feel even when it is cold
-    - Does not change the appearance of the surface in any way
-    - Perfect for surfaces that are prone to extreme weather conditions
-    - Protects against UV rays, erosion, and staining
+- Boosts the durability of concrete surfaces
+- No slippery feel even when it is cold
+- Does not change the appearance of the surface in any way
+- Perfect for surfaces that are prone to extreme weather conditions
+- Protects against UV rays, erosion, and staining
 
 ## Polyurethane Sealers
 
 **Best For:** Exterior and interior surfaces constantly in use by the public such as shopping malls.
 
 This is one of the sturdiest concrete sealers as it is even thicker than the acrylic sealer. It heavily protects surfaces against any sort of chemicals and erosion.
-This sealer comes in two types. Water-based and solvent-based. They function optimally even in the roughest places that are constantly in use.
+This sealer comes in two types. Water-based and solvent-based. They function optimally even in the roughest places that are constantly in use. A high quality polyurethane sealer pairs perfectly with our <a href="/services/polished-concrete-utah">Polished Concrete</a> service.
+
 Here are some benefits of this sealer that make it an ideal choice for both interior and exterior surfaces:
 
-    - Extremely durable
-    - They don’t make the surface yellow after a while
-    - Sturdy
-    - Prevents scuffing and staining
-    - Comes in a variety of finishes from light to highly glossed
+- Extremely durable
+- They don’t make the surface yellow after a while
+- Sturdy
+- Prevents scuffing and staining
+- Comes in a variety of finishes from light to highly glossed
 
 ## Epoxy Sealers
 
 **Best For:** Indoor surfaces.
 
 This sealer is also much thicker than an acrylic sealer and is ideal for providing a decorative finish to surfaces such as countertops. It enhances the beauty of the surface and it protects it against damage.
+
 Here are some benefits of epoxy sealer:
 
-    - Durable
-    - They can be colored as to provide a colored pigment to the surface
-    - Comes in a variety of sheens from medium to highly-glossed
-    - Resists abrasion
+- Durable
+- They can be colored as to provide a colored pigment to the surface
+- Comes in a variety of sheens from medium to highly-glossed
+- Resists abrasion
 
 ## Final Words
 
