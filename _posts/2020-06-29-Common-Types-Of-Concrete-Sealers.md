@@ -28,7 +28,7 @@ Here are some pros of this concrete sealer that make it a widely popular choice:
   <li>They dry quickly</li>
   <li>Enhances the color of interior surfaces</li>
   <li>UV-resistant</li>
-  </ul>
+  </ul><br />
 
 ## Penetrating Sealers
 
@@ -44,7 +44,7 @@ Here are some pros of penetrating sealers:
   <li>Does not change the appearance of the surface in any way</li>
   <li>Perfect for surfaces that are prone to extreme weather conditions</li>
   <li>Protects against UV rays, erosion, and staining</li>
-  </ul>
+  </ul><br />
 
 ## Polyurethane Sealers
 
@@ -61,7 +61,7 @@ Here are some benefits of this sealer that make it an ideal choice for both inte
   <li>Sturdy</li>
   <li>Prevents scuffing and staining</li>
   <li>Comes in a variety of finishes from light to highly glossed</li>
-  </ul>
+  </ul><br />
 
 ## Epoxy Sealers
 
@@ -75,7 +75,7 @@ Here are some benefits of epoxy sealer:
   <li>They can be colored as to provide a colored pigment to the surface</li>
   <li>Comes in a variety of sheens from medium to highly-glossed</li>
   <li>Resists abrasion</li>
-  </ul>
+  </ul><br />
 
 ## Final Words
 
